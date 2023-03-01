@@ -4,8 +4,8 @@
     "Name":"思源黑体 - Adobe",
     "country":"简 繁 日 韩 Eng",
     "button":"<a onclick=\"window.open('https://github.com/adobe-fonts/source-han-sans')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
-    "type":"",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
+    "type":"黑体",
     "License":"OFL 1.1",
     "other":""
   },
@@ -14,8 +14,8 @@
     "Name":"思源宋体 - Adobe",
     "country":"简 繁 日 韩 Eng",
     "button":"<a onclick=\"window.open('https://source.typekit.com/source-han-serif/cn/')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
-    "type":"",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
+    "type":"宋体",
     "License":"OFL 1.1",
     "other":""
   },
@@ -24,8 +24,8 @@
     "Name":"思源等宽 - Adobe",
     "country":"简 繁 日 韩 Eng",
     "button":"<a onclick=\"window.open('https://github.com/adobe-fonts/source-han-mono')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
-    "type":"",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
+    "type":"等宽体",
     "License":"OFL 1.1",
     "other":""
   },
@@ -34,19 +34,19 @@
     "Name":"霞鹜文楷 - LXGW",
     "country":"简 繁 日 韩 Eng",
     "button":"<a onclick=\"window.open('https://github.com/lxgw/LxgwWenKai')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
   },
   {
     "ID":"05",
-    "Name":"",
+    "Name":"851手書き雑フォント - 851",
     "country":"",
-    "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
-    "type":"",
-    "License":"OFL 1.1",
+    "button":"<a onclick=\"window.open('https://pm85122.onamae.jp/851fontpage.html')\">字体官网</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
+    "type":"手写体",
+    "License":"自由分发，可商用，保留著作权",
     "other":""
   },
   {
@@ -54,7 +54,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -64,7 +64,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -74,7 +74,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -84,7 +84,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -94,7 +94,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -104,7 +104,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -114,7 +114,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -124,7 +124,7 @@
     "Name":"jf open 粉圓 - justfont",
     "country":"",
     "button":"<a onclick=\"window.open('https://justfont.com/huninn/')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":"为客家语提供"
@@ -134,7 +134,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -144,7 +144,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -154,7 +154,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -164,7 +164,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -174,7 +174,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -184,7 +184,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -194,7 +194,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -204,7 +204,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -214,7 +214,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -224,7 +224,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -234,7 +234,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -244,7 +244,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -254,7 +254,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -264,7 +264,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -274,7 +274,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -284,7 +284,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -294,7 +294,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -304,7 +304,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -314,7 +314,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -324,7 +324,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -334,7 +334,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -344,7 +344,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -354,7 +354,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -364,7 +364,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -374,7 +374,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -384,7 +384,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -394,7 +394,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -404,7 +404,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -414,7 +414,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -424,7 +424,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -434,7 +434,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -444,7 +444,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -454,7 +454,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -464,7 +464,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -474,7 +474,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -484,7 +484,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -494,7 +494,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -504,7 +504,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -514,7 +514,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -524,7 +524,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -534,7 +534,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -544,7 +544,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -554,7 +554,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -564,7 +564,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -574,7 +574,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -584,7 +584,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -594,7 +594,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -604,7 +604,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -614,7 +614,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -624,7 +624,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -634,7 +634,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -644,7 +644,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -654,7 +654,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -664,7 +664,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -674,7 +674,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -684,7 +684,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
@@ -694,7 +694,7 @@
     "Name":"",
     "country":"",
     "button":"<a onclick=\"window.open('LINK')\">字体官网</a>",
-    "button_down1":"<a onclick=\"window.open('down_link')\">下载1</a>",
+    "button_down1":"<a onclick=\"window.open('down_link')\">下载</a>",
     "type":"",
     "License":"OFL 1.1",
     "other":""
